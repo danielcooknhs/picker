@@ -44,10 +44,6 @@
   ],
   "author": "",
   "license": "MIT",
-  "peerDependencies": {
-    "react": ">=16",
-    "react-native": ">=0.57"
-  },
   "private": false,
   "devDependencies": {
     "@babel/core": "^7.6.2",
